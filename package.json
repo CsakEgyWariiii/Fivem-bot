@@ -1,0 +1,39 @@
+{
+  "name": "FiveM-bot",
+  "author": "answ3r",
+  "lastupdate": "2021.08.10",
+  "main": "bot.js",
+  "version": "2.1.6",
+  "scripts": {
+    "start": "node --no-deprecation bot.js"
+  },
+  "engines": {
+    "npm": ">=8.5.1",
+    "node": ">=17.6.0"
+  },
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "captcha-canvas": "^3.1.0",
+    "chalk": "^4.1.2",
+    "chartjs-node-canvas": "^3.2.0",
+    "cli-table3": "^0.6.1",
+    "cryptr": "^6.0.3",
+    "discord-html-transcripts": "^2.4.2",
+    "discord.js": "^13.7.0",
+    "fetch-timeout": "^0.0.2",
+    "fs-extra": "^10.0.0",
+    "fstorm": "latest",
+    "gamedig": "^3.0.8",
+    "insert-line": "^1.1.0",
+    "jimp": "latest",
+    "js-yaml": "^4.1.0",
+    "loadavg-windows": "^1.1.1",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "node-cron": "^3.0.0",
+    "node-gyp": "^8.4.1",
+    "normalize-date": "^0.0.4",
+    "string-progressbar": "^1.0.4",
+    "uuid": "^8.3.2"
+  }
+}

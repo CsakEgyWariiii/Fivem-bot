@@ -1,0 +1,32 @@
+# ===========================================================================
+# FiveM-bot Beállítások
+# Köszönöm, hogy megvásároltad a discord botot %%__USERNAME__%%!
+#
+# A license kulcsért kérlek lépj be a discord szerverre. Discord meghívó: https://discord.com/invite/ptaqfSv4vR 
+#
+# Nyiss egy ticketet majd írd le az MC-MARKET felhasználóneved azt követően küldj egy szervermeghívót ahol a discord bot lesz.
+# Ezt követően meg fogod kapni a license kulcsodat és ticketbe írom a következő lépéseket. :)
+# ===========================================================================
+
+
+# ===========================================================================
+# BOT INFORMÁCIÓK
+# Egy mezőt se hagyj üresen!
+# ===========================================================================
+
+Guild_ID: "" # Discord szervered id-je
+License: "" # License kulcsod(fentebb le van írva, hogyan kaphatod meg)
+Token: "" # Bot tokened (Discord Developer Portálon találod)
+
+# ===========================================================================
+# MYSQL BEÁLLÍTÁSOK
+# ===========================================================================
+
+ICNames:
+  Állapot: false
+  Azonosító: "license" #steam,license,discord
+  Host: ""
+  Port: "3306"
+  User: "root"
+  Password: ""
+  Database: ""

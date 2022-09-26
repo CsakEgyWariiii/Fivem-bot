@@ -1,0 +1,150 @@
+[
+	{
+		"Kérdés": "- RP szituációkor azt állítod, hogy ki van ütve a fegyvered azonosító száma, de erről nincs bizonyítékod. Mit tehetsz?",
+		"Válaszok": [
+			"Reklamálok, hiszen még előbb itt volt.",
+			"Bizonyíték hiányában érvénytelen a kiütés.",
+			"Megpróbálok előkeríteni egyéb bizonyítékot.",
+			"Gyorsan elfutok."
+		],
+		"Helyes": "2"
+	},
+	{
+		"Kérdés": "Mi az a PG?",
+		"Válaszok": [
+			"PorbaGugolás",
+			"PowerGaming",
+			"PowerGang",
+			"Jó nagyot"
+		],
+		"Helyes": "2"
+	},
+	{
+		"Kérdés": "- Egy bankrabláson, ti kerültök előnybe, mint illegál. Mit teszel a rendőrséggel?",
+		"Válaszok": [
+			"Normálisan le RP-zem, hogy elveszem a fegyvereiket és aztán lelövöm az összeset.",
+			"Lelövöm őket amint kiértek.",
+			"Normálisan le RP-zem, hogy elveszem a fegyvereiket és a tárgyaikat.",
+			"Lelépek a szerverről."
+		],
+		"Helyes": "3"
+	},
+	{
+		"Kérdés": "- A közmunkahelynél tömegbunyó van és megölik egymást az ott dolgozók! Mit teszel?",
+		"Válaszok": [
+			"Beszállok a csatába.",
+			"Admint hívok!",
+			"Rá írok a Tulajra, hogy jöjjön ide.",
+			"Nem az én hatás köröm, szóval búcsúzok."
+		],
+		"Helyes": "1"
+	},
+	{
+		"Kérdés": "- Négyen haverok sétáltok, körbe vesznek hirtelen titeket hatan. Arra szólítanak fel, hogy adjatok pénzt nekik. Mit cselekedtek?",
+		"Válaszok": [
+			"Elrohanunk és elrejtőzünk",
+			"Adunk nekik pénzt mivel túlerőben vannak.",
+			"Van fegyverünk, elővesszük és dara.",
+			"Megbeszéjük a dolgot, majd elmegyünk mekizni."
+		],
+		"Helyes": "2"
+	},
+	{
+		"Kérdés": "- Szabályos ha lövöldözés közben kötszert használsz?",
+		"Válaszok": [
+			"Igen",
+			"Nem",
+			"Igen, hisz PUBG-ba is lehet",
+			"1 db-ot el lehet használni"
+		],
+		"Helyes": "2"
+	},
+	{
+		"Kérdés": "- Mi az a MG?",
+		"Válaszok": [
+			"MetaGaming",
+			"Nem tudom",
+			"MetálGang",
+			"MáGus"
+		],
+		"Helyes": "1"
+	},
+	{
+		"Kérdés": "- Mi az, hogy RK vagyis Revenge Kill?",
+		"Válaszok": [
+			"Rakott Krumpli",
+			"Szerepen kívüli információ felhasználása szerepben",
+			"Ok nélküli gyilkosság",
+			"Halál utáni bosszú"
+		],
+		"Helyes": "4"
+	},
+	{
+		"Kérdés": "- Mi a AK fogalma?",
+		"Válaszok": [
+			"Motorral való gyilkolás.",
+			"Jármű általi szándékos gyilkosság.",
+			"Szolgálatba lévő Admin megölése.",
+			"Oktalan gyilkolás."
+		],
+		"Helyes": "3"
+	},
+	{
+		"Kérdés": "Mit csinálsz ha a mentős nem tud felszedni?",
+		"Válaszok": [
+			"Le lépek, majd fel, hogy ne keljen sokat várnom",
+			"Kivárom az újraéledési időmet"
+		],
+		"Helyes": "2"
+	},
+	{
+		"Kérdés": "A szervern szabad 4 kilőtt kerékkel menni?",
+		"Válaszok": [
+			"Igen",
+			"Nem",
+			"Talán",
+			"Akár 6 al is"
+		],
+		"Helyes": "2"
+	},
+	{
+		"Kérdés": "Vezető ülésből menetközben lehet lőni?",
+		"Válaszok": [
+			"Igen",
+			"Nem",
+			"Talán",
+			"Mondanak eztis aztis"
+		],
+		"Helyes": "1"
+	},
+	{
+		"Kérdés": "- Nem tudja a választ a kérdésre. Mit tesz?",
+		"Válaszok": [
+			"Elkezdem átolvasni a szabályzatot és megpróbálok ÖNERŐBŐL bejutni.",
+			"Leszarom",
+			"Írsz a DC szobákba hátha valaki megmondja a választ.",
+			"Most ez komoly?"
+		],
+		"Helyes": "1"
+	},
+	{
+		"Kérdés": "Szabad-e RPzni a szervern?",
+		"Válaszok": [
+			"Igen",
+			"Nem",
+			"Mindig",
+			"Néha"
+		],
+		"Helyes": "1"
+	},
+	{
+		"Kérdés": "- Mit tesz, ha az ön által vezetett jármű baleset során felborul?",
+		"Válaszok": [
+			"Talpra állítja és megy tovább",
+			"Kiszáll és ott hagyja",
+			"Szerelőt és mentőt hív",
+			"Kiszáll és szétveri"
+		],
+		"Helyes": "3"
+	}
+]
